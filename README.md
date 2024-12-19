@@ -1,5 +1,8 @@
 
-[![Cool sticker](https://github-readme-stats.vercel.app/api/top-langs/?username=bluegummi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluegummi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluegummi&show_icons=true&theme=dark)
+
 <!--
 **BlueGummi/bluegummi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
