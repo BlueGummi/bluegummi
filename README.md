@@ -1,12 +1,9 @@
 ## Hey pal, welcome to this GitHub page or something
 
 
-cool sticker
-
-![sticker](https://github-readme-stats.vercel.app/api?username=bluegummi&show_icons=true&theme=dark)
-
-
 > Why were we given such fleet of foot if not to run away from our responsibilities with?
+
+cool sticker
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bluegummi&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
